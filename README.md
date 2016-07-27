@@ -1,3 +1,5 @@
+![jAudio.js + Volume Control](https://i.imgur.com/N4OVLun.png)
+
 # jAudio.js + Volume Control
 An audio player made with javascript and jQuery. Material design look.
 
